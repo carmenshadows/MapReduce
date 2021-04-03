@@ -1,0 +1,5 @@
+dolor, 2
+Lorem, 4
+amet, 2
+ipsum, 4
+sit, 2
